@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/SmartCrypt/static/css/main.6e50c9c1.css",
+    "main.js": "/SmartCrypt/static/js/main.40ee4775.js",
+    "static/media/logoproject.png": "/SmartCrypt/static/media/logoproject.b1d0a09515da6f6b809a.png",
+    "index.html": "/SmartCrypt/index.html",
+    "main.6e50c9c1.css.map": "/SmartCrypt/static/css/main.6e50c9c1.css.map",
+    "main.40ee4775.js.map": "/SmartCrypt/static/js/main.40ee4775.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e50c9c1.css",
+    "static/js/main.40ee4775.js"
+  ]
+}
